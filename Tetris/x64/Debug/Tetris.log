@@ -1,0 +1,6 @@
+﻿  Tetris.cpp
+F:\test1\俄罗斯方块\Tetris\Tetris.cpp(30,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\test1\俄罗斯方块\Tetris\Tetris.cpp(209,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  Tetris.vcxproj -> F:\test1\俄罗斯方块\Tetris\x64\Debug\Tetris.exe
