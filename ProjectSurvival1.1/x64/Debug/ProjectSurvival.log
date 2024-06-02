@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\test1\ProjectSurvival\ProjectSurvival1.0.1\main.cpp(295,17): warning C4018: “<”: 有符号/无符号不匹配
+  ProjectSurvival.vcxproj -> F:\test1\ProjectSurvival\ProjectSurvival1.0.1\x64\Debug\ProjectSurvival.exe
